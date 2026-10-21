@@ -1,2 +1,2 @@
 # python-pruebas-pro-
-Para subir los ejercicos de python pro 
+Para subir los ejercicios de python pro 
